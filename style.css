@@ -182,9 +182,27 @@ a {
   max-width: 100rem;
   margin: 0 auto;
   padding: 3.2rem 6.4rem;
+  border-radius: 8px;
 }
 .sign-up-btn-1 {
   border: 1px solid white !important;
+}
+/* responsive  */
+@media (max-width: 500px) {
+  html {
+    font-size: 6px;
+  }
+  .font48 {
+    font-size: 3rem;
+  }
+}
+@media (max-width: 900px) {
+  html {
+    font-size: 8px;
+  }
+  .font48 {
+    font-size: 3.6rem;
+  }
 }
 
 
