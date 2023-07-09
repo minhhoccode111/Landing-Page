@@ -1,6 +1,6 @@
-# Landing-Page
+# Landing-Page-The-Odin-Project
 
-blabalablabalbalablabalbalb
+- Landing page with HTML, CSS.
 
 [View all my projects Live demo links](https://minhhoccode111.github.io/allProjectssLiveDemo/)
 
