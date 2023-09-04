@@ -1,7 +1,7 @@
-# Landing-Page-The-Odin-Project
+# Landing Page The Odin Project
 
 - Landing page with HTML, CSS.
 
-[View all my projects Live demo links](https://minhhoccode111.github.io/allProjectssLiveDemo/)
+[View all projects' live demos](https://minhhoccode111.github.io/all-projects-live-demos/) 
 
-[View this project Live demo](https://minhhoccode111.github.io/landingPage/)
+[Landing Page TOP](https://minhhoccode111.github.io/landing-page-top/)
